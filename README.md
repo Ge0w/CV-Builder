@@ -1,0 +1,1 @@
+This project was built whilst following The Odin Project Javascript / React path. I took some inspiration from one of the top pages with regards to the layout of the page but produced the entire project from scratch.
