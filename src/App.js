@@ -5,8 +5,8 @@ import Educational from "./components/Inputs/Educational";
 import PracticalExp from "./components/Inputs/PracticalExp";
 import PersonalCV from "./components/PersonalCV";
 
-// Set General Info
 function App() {
+  // Set General Info
   const [infos, setInfos] = useState({
     id: 1,
     firstname: 'Name',
