@@ -13,6 +13,7 @@ function App() {
     lastname: '',
     role: 'Role',
     email: 'Email',
+    mobile: 'Mobile number',
     description: 'Personal Description Here'
 });
 
