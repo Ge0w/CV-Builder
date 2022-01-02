@@ -172,3 +172,23 @@ input {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+
+/* Media Queries */
+
+@media print {
+  .cv-container {
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .flex {
+    justify-content: space-between;
+  }
+
+  .card {
+    border: none;
+    box-shadow: none;
+    margin: 0;
+    padding: 20px;
+  }
+}
