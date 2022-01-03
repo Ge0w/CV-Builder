@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CV-Builder/static/css/main.fd4426c9.chunk.css",
-    "main.js": "/CV-Builder/static/js/main.ecc4854b.chunk.js",
-    "main.js.map": "/CV-Builder/static/js/main.ecc4854b.chunk.js.map",
+    "main.css": "/CV-Builder/static/css/main.5a5d140e.chunk.css",
+    "main.js": "/CV-Builder/static/js/main.f2d66508.chunk.js",
+    "main.js.map": "/CV-Builder/static/js/main.f2d66508.chunk.js.map",
     "runtime-main.js": "/CV-Builder/static/js/runtime-main.b05263f4.js",
     "runtime-main.js.map": "/CV-Builder/static/js/runtime-main.b05263f4.js.map",
-    "static/js/2.205fa3c6.chunk.js": "/CV-Builder/static/js/2.205fa3c6.chunk.js",
-    "static/js/2.205fa3c6.chunk.js.map": "/CV-Builder/static/js/2.205fa3c6.chunk.js.map",
+    "static/js/2.008e05f1.chunk.js": "/CV-Builder/static/js/2.008e05f1.chunk.js",
+    "static/js/2.008e05f1.chunk.js.map": "/CV-Builder/static/js/2.008e05f1.chunk.js.map",
     "index.html": "/CV-Builder/index.html",
-    "static/css/main.fd4426c9.chunk.css.map": "/CV-Builder/static/css/main.fd4426c9.chunk.css.map",
-    "static/js/2.205fa3c6.chunk.js.LICENSE.txt": "/CV-Builder/static/js/2.205fa3c6.chunk.js.LICENSE.txt"
+    "static/css/main.5a5d140e.chunk.css.map": "/CV-Builder/static/css/main.5a5d140e.chunk.css.map",
+    "static/js/2.008e05f1.chunk.js.LICENSE.txt": "/CV-Builder/static/js/2.008e05f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b05263f4.js",
-    "static/js/2.205fa3c6.chunk.js",
-    "static/css/main.fd4426c9.chunk.css",
-    "static/js/main.ecc4854b.chunk.js"
+    "static/js/2.008e05f1.chunk.js",
+    "static/css/main.5a5d140e.chunk.css",
+    "static/js/main.f2d66508.chunk.js"
   ]
 }
