@@ -154,7 +154,7 @@ input {
   border: none;
   border-radius: 5px;
   text-align: center;
-  width: 100px;
+  width: auto;
 }
 
 .flex {
