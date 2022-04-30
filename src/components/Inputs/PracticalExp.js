@@ -58,6 +58,7 @@ const PracticalExp = ({ onAdd }) => {
         <div className="form-control">
           <label>I work here currently</label>
           <input
+            className="checkbox"
             type="checkbox"
             checked={dateChecked}
             name="current"

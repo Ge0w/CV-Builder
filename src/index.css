@@ -173,6 +173,11 @@ input {
   grid-template-columns: repeat(2, 1fr);
 }
 
+.checkbox {
+  width: auto;
+  margin-left: 10px;
+}
+
 /* Media Queries */
 
 @media print {
